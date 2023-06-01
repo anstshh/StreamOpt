@@ -1,4 +1,4 @@
-package com.example.streamapiopt;
+package com.example.streamApiOpt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
